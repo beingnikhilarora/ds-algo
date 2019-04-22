@@ -16,6 +16,7 @@ def isIdentical(root1, root2):
 
     return False
 
+
 if __name__ == '__main__':
     root = TreeNode(1)
     root.left = TreeNode(2)
